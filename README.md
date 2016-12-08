@@ -52,6 +52,9 @@
 <img src="keycode.png"></li>
 </ol>
 
+<i>You should be successfuly set up and your setting should look like this:</i>
+<img src="whole.jpg"> <img src="board.jpg"> <img src="screen.jpg"> 
+
 </body>
 </html>
 
