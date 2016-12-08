@@ -29,7 +29,7 @@ Your folder setup should look like this: <img src="folder_setup.png">
 2. Coding the Game
 <ul>index.html: is the main page that will include 4 categories and 4 buttons under each category that will link to the respective question. When coding the page, questions are categorized in 4 different div classes (each div class represents a category), and these divs are all inside one div class ("questions"). 
     <li> <img src="indexhtml.png"></li>
-<ul> main.css: Now that you have set up your index.html, style your buttons using css. Since we have already placed questions inside div containers, setting up buttons into rows and columns should be simple, using flexbox. Here is how I set up mine <img src="maincss"></ul>
+<ul> main.css: Now that you have set up your index.html, style your buttons using css. Since we have already placed questions inside div containers, setting up buttons into rows and columns should be simple, using flexbox. Here is how I set up mine <img src="maincss.png"></ul>
 </ul>
 
 </body>
