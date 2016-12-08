@@ -3,6 +3,7 @@
 <i>This is a Jeopardy-style game that teaches the basics of financial literacy to adolescence.</i>
 </head>
 <body>
+<br>
 <b>Materials: </b>
 <ul>
 <li> Makey Makey Standard Kit(2)</li> 
