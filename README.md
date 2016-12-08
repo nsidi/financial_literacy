@@ -16,13 +16,22 @@ Materials:
 - Play-Doh
 - Magnetic stickers 
 - Card stock 
-</body>
+<br>
 INSTRUCTIONS: 
 1. Folder Setup
 <ul>
+
     <li> i. Create a folder that includes the following documents: "index.html", "main.css", "main.js" </li>
-    <li> ii. Within that folder, create another folder and label it as "questions" (this is where you will place all the questions) </li>
-    Your folder setup should look like this: <img src="folder_setup.png">
+    <li> ii. Within that folder, create another folder and label it as "questions" (this is where you will place all the questions - each question page will be a seperate html file. ) </li>
+
+Your folder setup should look like this: <img src="folder_setup.png">
 </ul>
+2. Coding the Game
+<ul>Your index.html is the main page that will include 4 categories and 4 buttons under each category that will link to the respective question. 
+    <li> <img src="indexhtml.png"></li>
+
+</ul>
+
+</body>
 </html>
 
