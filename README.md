@@ -31,8 +31,9 @@ Your folder setup should look like this: <img src="folder_setup.png">
     <li> <img src="indexhtml.png"></li>
 <ul> b. main.css: Now that you have set up your index.html, style your buttons using css. Since we have already placed questions inside div containers, setting up buttons into rows and columns should be simple, using flexbox. Here is how I set up mine <img src="maincss.png"></ul>
 <ul>
-c. main.js: So how can we click on a question button and have it take you to that page? We can add functions in a javascript. 
+c. main.js: So how can we click on a question button and have it take you to that page? We can add functions in a javascript file and add an event listener in the index.html as shown above. 
 <img src="questionfunction.png">
+Once we get to the question page, we want to make sure that once the user answers the multiple choice queston, it should take them back to the index.html page. 
 
 </ul>
 
