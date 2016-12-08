@@ -33,7 +33,7 @@ Your folder setup should look like this: <img src="folder_setup.png">
 <ul>
 c. main.js: So how can we click on a question button and have it take you to that page? We can add functions in a javascript file and add an event listener in the index.html as shown above. 
 <img src="questionfunction.png">
-Once we get to the question page, we want to make sure that once the user answers the multiple choice queston, it should take them back to the index.html page. These functions should do the trick. <img src="answered.png">
+Once we get to the question page, we want to make sure that once the user answers the multiple choice queston, it should take them back to the index.html page. These functions should do the trick. <img src="answered.png"> Don't let the points confuse you. This is something that I'm currently working on, but it will work nontheless. Add some event listeners to the multiple choice. This is how the code should look: <img src="answeredlistener.png>
 
 </ul>
 
