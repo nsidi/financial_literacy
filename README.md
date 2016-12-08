@@ -42,7 +42,7 @@ i. With a pencil, divide the canvas into 4 columns and 5 rows (the top column is
 4. Stick some magnetic strips onto the back of the cardstock and on the board. You can use super glue to ensure it sticks well to the canvas. 
 
 Makey Makey Board
-1. Using the different allegator clips, connect each button to a question button. Since our game has 16 questions, you will need to remap the second Makey Makey board in order to fit the number of questions. Visit this link to remap: http://makeymakey.com/remap/ 
+1. Using the different allegator clips, connect each button to a question button. Since our game has 16 questions, you will need to remap the second Makey Makey board in order to fit the number of questions. Visit <a href="http://makeymakey.com/remap/">this link </a> to remap 
 2. Each button will require a character code. Use the following function: 
 <img src="keycode.png">
 
