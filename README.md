@@ -36,7 +36,8 @@
 <li> main.css: Now that you have set up your index.html, style your buttons using css. Since we have already placed questions inside div containers, setting up buttons into rows and columns should be simple, using flexbox. Here is how I set up mine <img src="maincss.png"></li> 
 <li> main.js: So how can we click on a question button and have it take you to that page? We can add functions in a javascript file and add an event listener in the index.html as shown above. 
 <img src="questionfunction.png"></li>
-<li>Once we get to the question page, we want to make sure that once the user answers the multiple choice queston, it should take them back to the index.html page. These functions should do the trick. <img src="answered.png"> Don't let the points confuse you. This is something that I'm currently working on, but it will work nontheless. Add some event listeners to the multiple choice. This is how the code should look: <img src="answeredlistener.png"></li>
+<li>Once we get to the question page, we want to make sure that once the user answers the multiple choice queston, it should take them back to the index.html page. These functions should do the trick. <img src="answered.png"> 
+<br>Don't let the "player points" and "player turn" confuse you. This is something that I'm currently working on, These functions will help the user get back to the main page though. Add some event listeners to the multiple choice. This is how the code should look: <img src="answeredlistener.png"></li>
 </ol>
 <b>Making the Board</b>
 <ol>
